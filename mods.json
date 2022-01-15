@@ -1,1 +1,6 @@
-{}
+{
+  "voicechat": "voicechat-fabric-1.18.1-2.1.28.jar",
+  "fabricapi": "fabric-api-0.45.2+1.18.jar",
+  "optifabric": "optifabric-1.12.10.jar",
+  "optifine": "OptiFine_1.18.1_HD_U_H4.jar"
+}
